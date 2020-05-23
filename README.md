@@ -12,19 +12,40 @@
 
 #### [1.1、GPS概述](https://github.com/shaoyayu/baidumapDome/blob/master/001-第一节.md)
 
-#### [1.2、Android开发系统](https://github.com/shaoyayu/baidumapDome/blob/master/001-第二节.md)
+#### [1.2、Android开发系统](https://github.com/shaoyayu/baidumapDome/blob/master/002-第二节.md)
 
 ## 第二章、GPS原理开发
 
-#### [2.1、GPS原理](https://github.com/shaoyayu/baidumapDome/blob/master/001-第三节.md)
+#### [2.1、GPS原理](https://github.com/shaoyayu/baidumapDome/blob/master/003-第三节.md)
 
-#### [2.2、Android GPS架构和分类](https://github.com/shaoyayu/baidumapDome/blob/master/001-第四节.md)
+#### [2.2、Android GPS架构和分类](https://github.com/shaoyayu/baidumapDome/blob/master/004-第四节.md)
 
-#### [2.3、Android定位类分析](https://github.com/shaoyayu/baidumapDome/blob/master/001-第五节.md)
+#### [2.3、Android定位类分析](https://github.com/shaoyayu/baidumapDome/blob/master/005-第五节.md)
 
-#### [2.4、位置追踪与预警](https://github.com/shaoyayu/baidumapDome/blob/master/001-第六节.md)
+#### [2.4、位置追踪与预警](https://github.com/shaoyayu/baidumapDome/blob/master/006-第六节.md)
+
+## 第三章、GPS地图开发应用
+
+#### [3.1、地图开发平台与百度地图](https://github.com/shaoyayu/baidumapDome/blob/master/007-第七节.md)
+
+#### [3.2、地图切换与地图标注](https://github.com/shaoyayu/baidumapDome/blob/master/008-第八节.md)
+
+#### [3.3、地图覆盖物与地理编码](https://github.com/shaoyayu/baidumapDome/blob/master/009-第九节.md)
+
+#### [3.4、地图检索与路线规划](https://github.com/shaoyayu/baidumapDome/blob/master/010-第十节.md)
+
+#### [3.5、地图导航](https://github.com/shaoyayu/baidumapDome/blob/master/011-第十一节.md)
+
+## 第四章、GPS物联网
+
+#### [3.1、GPS物联网综合应用](https://github.com/shaoyayu/baidumapDome/blob/master/012-第十二节.md)
+
 
 ## 最终案例效果
+
+### BaiDuMapBaseActivity
+
+[源代码](app/src/main/java/icu/shaoyayu/android/baidumap/activity/BaiDuMapBaseActivity.java)
 
 ### 主见面
 
