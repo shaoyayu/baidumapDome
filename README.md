@@ -12,6 +12,18 @@
 
 #### [1.1、GPS概述](https://github.com/shaoyayu/baidumapDome/blob/master/001-第一节.md)
 
+#### [1.2、Android开发系统](https://github.com/shaoyayu/baidumapDome/blob/master/001-第二节.md)
+
+## 第二章、GPS原理开发
+
+#### [2.1、GPS原理](https://github.com/shaoyayu/baidumapDome/blob/master/001-第三节.md)
+
+#### [2.2、Android GPS架构和分类](https://github.com/shaoyayu/baidumapDome/blob/master/001-第四节.md)
+
+#### [2.3、Android定位类分析](https://github.com/shaoyayu/baidumapDome/blob/master/001-第五节.md)
+
+#### [2.4、位置追踪与预警](https://github.com/shaoyayu/baidumapDome/blob/master/001-第六节.md)
+
 ## 最终案例效果
 
 ### 主见面
