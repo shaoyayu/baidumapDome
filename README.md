@@ -6,6 +6,12 @@
 
 大三下学期Android GPS开发课程，为期12周的，12节课学习
 
+## 课程
+
+### 第1章、GPS概述与基本开发环境
+
+#### [1.1、GPS概述](https://github.com/shaoyayu/baidumapDome/blob/master/001-第一节.md)
+
 ## 最终案例效果
 
 ### 主见面
