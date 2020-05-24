@@ -8,7 +8,7 @@
 
 ## 课程
 
-### 第1章、GPS概述与基本开发环境
+## 第1章、GPS概述与基本开发环境
 
 #### [1.1、GPS概述](https://github.com/shaoyayu/baidumapDome/blob/master/001-第一节.md)
 
