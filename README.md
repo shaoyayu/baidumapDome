@@ -2,7 +2,7 @@
 
 > 作者：shaoyayu
 >
-> [课设地址](https://github.com/shaoyayu/baidumapDome/blob/master/013-%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1.md#4%E7%BB%93%E6%9E%9C%E5%8F%8A%E5%88%86%E6%9E%90)
+> [课设地址](https://github.com/shaoyayu/baidumapDome/blob/master/013-%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1.md)
 
 ## 简介
 
