@@ -1,6 +1,8 @@
 # Android GPS 课程
 
 > 作者：shaoyayu
+>
+> [课设地址](https://github.com/shaoyayu/baidumapDome/blob/master/013-%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1.md)
 
 ## 简介
 
